@@ -16,8 +16,12 @@ namespace QABank
         /// 
         /// </summary>
         public int AccountNumber { get; set; }
+        /// <summary>
+        /// 
+        /// </summary>
+        public int Balance { get; set; }
 
-        public int Balance 
+
 
     }
 }
