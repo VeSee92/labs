@@ -10,6 +10,11 @@ namespace QABank
     {
         static void Main(string[] args)
         {
+            BankAccount acc1 = new BankAccount("test", 100);
+
+            BankAccount acc2 = new BankAccount("test", 100);
+
+            int t = 0;
         }
     }
 }
