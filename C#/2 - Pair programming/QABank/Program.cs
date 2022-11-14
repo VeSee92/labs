@@ -14,6 +14,8 @@ namespace QABank
 
             BankAccount acc2 = new BankAccount("test", 100);
 
+            acc1.Withdraw(500);
+
             int t = 0;
         }
     }
